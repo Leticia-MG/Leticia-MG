@@ -1,6 +1,5 @@
 - Hi! My name is Ana Letícia, I'm a front end web developer who is also trying to branch out as a back end.
-- I'm currently studying via online courses but I'm seeking for a formal graduation in the coding area as well.
-- My skills include Html and CSS and I'm currently studying javascript, git and sass
+- My skills include Html, CSS Sass but I'm also studying Java and have a interest on python web.
 - My non coding skills are image editing with GIMP, illustrational art with Krita, and wireframe and mockup creation with Inkscape.
 - Thank you for checking on me!
 
